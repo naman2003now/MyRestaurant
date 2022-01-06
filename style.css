@@ -16,7 +16,7 @@ body{
     align-items:center;
     justify-content:left;
     height: 100%;
-    width: 70%;
+    width: 60%;
     font-size: xx-large;
     padding-left: 50px;
     font-style: oblique;
@@ -29,7 +29,7 @@ body{
     align-items:center;
     justify-content:right;
     height: 100%;
-    width: 10%;
+    width: 20%;
     padding: 10px;
     color: antiquewhite;
     justify-self: flex-end;
