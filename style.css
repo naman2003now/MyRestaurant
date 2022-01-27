@@ -38,8 +38,8 @@ body{
 .submenu{
     text-align: center;
     color: yellowgreen;
-    padding-left: 3.2rem;
-    margin-top: 6.4rem;
+    padding-left: 4rem;
+    margin-top: 8rem;
     margin-bottom: 0px;
 }
 .dishDeck{
@@ -50,26 +50,26 @@ body{
     width: 100%;
 }
 .dishCard{
-    margin: 1.28rem 0 0 1.28rem;
-    border-radius: 1.6rem;
-    width: 16rem;
+    margin: 1.6rem 0 0 1.6rem;
+    border-radius: 2rem;
+    width: 20rem;
     height: auto;
     background-color: yellowgreen;
-    padding: 0.64rem;
+    padding: 0.8rem;
     padding-right: 0rem;
 }
 .foodImage{
-    border-radius: 1.472rem;
-    width: 15.36rem;
+    border-radius: 1.84rem;
+    width: 19.2rem;
     height: auto;
 }
 .dishName{
     color: antiquewhite;
-    margin-left: 0.32rem;
-    margin-top: 0.32rem;
+    margin-left: 0.4rem;
+    margin-top: 0.4rem;
 }
 .dishDescription{
-    margin-left: 1.28rem;
+    margin-left: 1.6rem;
     color: antiquewhite;
 
 }
